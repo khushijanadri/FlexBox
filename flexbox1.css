@@ -1,0 +1,175 @@
+* {
+            border: 0px;
+            margin: 0px 0px;
+        }
+
+        header {
+            background-color: purple;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            color: antiquewhite;
+            text-align: center;
+        }
+
+        h1 {
+            font-family: coiny;
+        }
+
+        h2,
+        h3 {
+            font-family: quicksand;
+            font-size: larger;
+            text-align: center;
+        }
+
+        body {
+            color: aliceblue;
+        }
+
+        .line1 {
+            display: flex;
+            justify-content: space-around;
+        }
+
+        .a {
+            background-image: url(https://static.scientificamerican.com/dam/m/90104e781fa5533/original/Cosmic-web.jpg?m=1735582985.859&w=600);
+        }
+
+        .b {
+            background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/I-80_Eastshore_Fwy.jpg/1200px-I-80_Eastshore_Fwy.jpg);
+            background-position: 60%;
+        }
+
+        .c {
+            background-image: url(https://img.freepik.com/free-photo/sports-tools_53876-138077.jpg?semt=ais_hybrid&w=740);
+            background-position: 98%;
+        }
+
+        .subdiv {
+            width: 33%;
+            margin-top: 5px;
+            border-radius: 9px;
+            background-size: cover;
+            background-blend-mode: darken;
+        }
+
+        .a,
+        .b,
+        .c {
+            height: 200px;
+        }
+
+        #smalldiv {
+            display: flex;
+            justify-content: space-around;
+            height: 90px;
+            text-align: center;
+        }
+
+        .smalldiv {
+            width: 49%;
+            display: flex;
+            justify-content: space-around;
+            background-size: cover;
+            border-radius: 5px;
+        }
+
+
+        #a {
+            background-image: url(https://news.uchicago.edu/sites/default/files/styles/full_width/public/images/2022-10/tdtb-black-hole-posterframe.jpg?itok=wl-tWseO);
+            background-position-x: center;
+            background-position-y: center;
+        }
+
+        #b {
+            background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6zHcpqXYiHbVlKtUwfaydDCvxK5hiOgH_UA&s);
+        }
+
+        #c {
+            background-image: url(https://dailygalaxy.com/wp-content/uploads/2025/01/Asteroid-Comet-Hybrid.jpg);
+            background-position-x: center;
+            background-position-y: center;
+        }
+
+        #d {
+            background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxWVeLg1kzEcOKu0SsPJa0dwYbDjrE8NSGVw&s);
+        }
+
+        #e {
+            background-image: url(https://i.ytimg.com/vi/zEr-mm8OSGo/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAm0vvR3Ud4t5gSl4BF1LoxWA70Cw);
+            background-size: cover;
+        }
+
+        #f {
+            background-image: url(https://www.reliancegeneral.co.in/siteassets/rgiclassets/images/blogs-images/top-5-fastest-cars-in-the-world2.webp);
+            background-size: cover;
+        }
+
+        #g {
+            background-image: url(https://img.ipl.com/upload/20250611/0220e28ca4d554eae7c94d7c315a9ab2.jpg);
+        }
+
+        #h {
+            background-image: url(https://static.theprint.in/wp-content/uploads/2024/08/Hockey.jpg);
+        }
+
+        .line2 {
+            display: flex;
+            justify-content: space-around;
+            height: 70px;
+        }
+
+        #line2 {
+            width: 24.7%;
+        }
+
+        .d {
+            background-image: url(https://meetings.skift.com/wp-content/uploads/2018/10/performance-for-event-entertainment-1024x683.jpeg);
+        }
+
+        .e {
+            background-image: url(https://www.nhlbi.nih.gov/sites/default/files/styles/16x9_crop/public/2025-03/Ultraprocessed%20foods%20display%202%20framed%20-%20shutterstock_2137640529_r.jpg?h=ab94ba44&itok=yrOIN-8T);
+            color: black;
+        }
+
+        .f {
+            background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR--zeufuDctBilyEQVEg3QEf5qX5yTyB79sQ&s);
+        }
+
+        .g {
+            background-image: url(https://www.euromonitor.com/globalassets/new-industry-pages/travel-and-mobility/travel-block-1.png);
+            background-position: 480%;
+            color: black;
+        }
+
+        .line3 {
+            display: flex;
+            justify-content: space-around;
+            height: 70px;
+        }
+
+        #line3 {
+            width: 19.7%;
+        }
+
+        .h {
+            background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Altja_j%C3%B5gi_Lahemaal.jpg/1200px-Altja_j%C3%B5gi_Lahemaal.jpg);
+        }
+
+        .i {
+            background-image: url(https://png.pngtree.com/png-clipart/20200701/original/pngtree-concept-vector-illustration-of-photograph-take-a-picture-with-camera-png-image_5435193.jpg);
+            background-position: 600%;
+            color: black;
+        }
+
+        .j {
+            background-image: url(https://www.psfc.in/wp-content/uploads/2023/04/1111_n.png);
+            color: black;
+        }
+
+        .k {
+            background-image: url(https://cdn.britannica.com/51/173051-131-1ECD9C16/gold-metal-Stacks-bars-Blocks-money-mercantilism.jpg);
+        }
+
+        .l {
+            background-image: url(https://samruddhivastu.com/blog/wp-content/uploads/2024/01/basics-of-astrology-zodiac-signs-and-meanings-min.jpg);
+        }
